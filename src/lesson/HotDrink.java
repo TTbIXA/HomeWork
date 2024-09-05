@@ -5,7 +5,7 @@ public class HotDrink extends Product {
     private String name;
     private double price;
     private int temperature;
-    public int temp;
+
 
     public HotDrink(String name, int price, int temperature){
         super(name, price);
